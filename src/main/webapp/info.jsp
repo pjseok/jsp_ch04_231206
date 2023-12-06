@@ -14,10 +14,10 @@
 		<input type="button" value ="중복검사"><br><br>
 		성별 : <input type ="radio" name="gender" value="남성"> 남 <input type = "radio" name = "gender" value="여성"> 여
 		<br><br>
-		게임장르 : <input type="checkbox" name = "genre1" value="액션">액션
-		<input type="checkbox" name = "genre2" value="퍼즐">퍼즐
-		<input type="checkbox" name = "genre3" value="전략">전략
-		<input type="checkbox" name = "genre4" value="리듬">리듬
+		게임장르 : <input type="checkbox" name = "genre" value="액션">액션
+		<input type="checkbox" name = "genre" value="퍼즐">퍼즐
+		<input type="checkbox" name = "genre" value="전략">전략
+		<input type="checkbox" name = "genre" value="리듬">리듬
 		<br><br>
 		혈액형 : 
 		<select name="blood">
